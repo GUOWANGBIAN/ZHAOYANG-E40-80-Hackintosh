@@ -7,7 +7,7 @@
 | 配置 | 联想 昭阳 E40-80 |
 | 处理器 | Intel Core i5-5300U |
 | 内存 | 4GB+4GB DDR3 1600MHz |
-| 显卡 | Intel HD Graphics 5500 2048 MB |
+| 显卡0 | Intel HD Graphics 5500 2048 MB |
 | 有线网卡 | Realtek GBE Controller |
 | 无线网卡 | Intel Dual-Band Wireless AC 3160 |
 | 内置读卡器 | Realtek RTS5229 |
@@ -38,5 +38,13 @@
 | 蓝牙 | 能够开启但无能使用  |
 | HDMI | 完全没驱动起来，插屏无信号 |
 | 指纹 | 不支持  |
+| 独立显卡 | 不支持 |
+
+本机使用Macos 须在BIOS中做如下操作
+1. 需要切换到UEFI ONLY
+2. 开启VT-x，关闭VT-d
+3. 关闭安全启动
+4. 如果在macos下续航较差，请切换至仅核显模式
+5. 序列号请在macos下自行修改（**重要**），否则无法使用Apple服务，甚至导致AppleID封禁
 
 ### 推荐安装 Monterey.12.6.3 
