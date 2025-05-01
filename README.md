@@ -1,4 +1,3 @@
-# ZHAOYANG-E40-80-Hackintosh
 # 联想 昭阳 E40-80 OpenCore 黑苹果引导文件
 ### 硬件配置
 
