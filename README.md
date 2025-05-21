@@ -5,7 +5,7 @@
 | ------------ | ------------ |
 | 配置 | 联想 昭阳 E40-80 |
 | 处理器 | Intel Core i5-5300U |
-| 内存 | 4GB+4GB DDR3 1600MHz |
+| 内存 | 8GB+8GB DDR3 1600MHz |
 | 显卡0 | Intel HD Graphics 5500 2048 MB |
 | 有线网卡 | Realtek GBE Controller |
 | 无线网卡 | Intel Dual-Band Wireless AC 3160 |
